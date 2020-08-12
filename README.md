@@ -46,6 +46,3 @@ Please find attached visual for overall journey and cucumber report
 
 ![](src/test/resources/Cucumberreport3.png)
 
-
-
-                      [<img src="https://img.youtube.com/vi/3yMDWi9jnFM/maxresdefault.jpg" width="50%">](https://youtu.be/3yMDWi9jnFM)
