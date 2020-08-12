@@ -85,7 +85,7 @@ public class StepDefincation {
     @Then("Check all products has been removed from cart")
     public void emptycartCheck() {
         // Validating that basket is empty now
-        Assert.assertTrue("abb",cartpage.cartEmptyTextPresent());
+        Assert.assertTrue("Cart Page is not empty ",cartpage.cartEmptyTextPresent());
 
     }
 
